@@ -21,7 +21,7 @@
 title: weltanschaunng
 email: saotome@alumni.usp.br
 description: my personal chaos
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/weltanschauung" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sa0tome
 
